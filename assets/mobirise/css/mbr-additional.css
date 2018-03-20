@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+#ext_menu-l .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-l.mbr-navbar--stuck .mbr-navbar__section {
+  background: #414141;
+}
+#ext_menu-l .mbr-navbar__section {
+  background: #414141;
+}
+#ext_menu-l .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-k H1 {
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#header4-k SPAN {
+  color: #b8312f;
+  font-size: 60px;
+  font-family: 'Roboto Slab', serif;
+}
+#msg-box3-j .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 30px;
+}
+#msg-box3-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-j .mbr-article P {
+  font-size: 20px;
+}
+#features1-i .mbr-section-title .mbr-header__text {
+  font-size: 30px;
+  text-align: center;
+}
+#features1-i P {
+  text-align: center;
+}
+#contacts3-c STRONG {
+  color: #ffffff;
+}
